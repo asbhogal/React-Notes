@@ -1,4 +1,4 @@
-// Define propTypes for the Items component to require quantity as a prop and verify that it is of type number.
+// Define 'propTypes' for the 'Items' component to require quantity as a prop and verify that it is of type number.
 
 const Items = (props) => {
   return <h1>Current Quantity of Items in Cart: {props.quantity}</h1>
