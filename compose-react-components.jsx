@@ -28,7 +28,7 @@ class TypesOfFood extends React.Component {
       <div>
         <h1>Types of Food:</h1>
         { /* Change code below this line */ }
-          < Fruits/>
+          < Fruits />
         { /* Change code above this line */ }
         <Vegetables />
       </div>

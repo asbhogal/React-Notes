@@ -9,3 +9,5 @@ class Colorful extends React.Component {
     );
   }
 };
+
+// NB. 72 IS A NUMBER, 72px IS A STRING. ANY UNITS APPENDED THEREFORE CHANGE THE DATA TYPE
