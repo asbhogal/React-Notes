@@ -10,3 +10,6 @@ Notes from the 'React' module of freeCodeCamp's Front-End Development Libraries 
 <br>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React logo" width="45" style="max-width:100%;"></a>
+
+<strong>:link: Links</strong><br>
+ - <a target="_blank" href="https://www.freecodecamp.org/learn/front-end-development-libraries/#react">Front-End Development Libraries course - React Section</a>
