@@ -1,4 +1,4 @@
-// The ShoppingCart component now renders a child component Items. This Items component has a default prop quantity set to the integer 0. Override the default prop by passing in a value of 10 for quantity.
+// The ShoppingCart component now renders a child component 'Items'. This 'Items' component has a default prop quantity set to the integer 0. Override the default prop by passing in a value of 10 for quantity.
 
 // Note: Remember that the syntax to add a prop to a component looks similar to how you add HTML attributes. However, since the value for quantity is an integer, it won't go in quotes but it should be wrapped in curly braces. For example, {100}. This syntax tells JSX to interpret the value within the braces directly as JavaScript.
 

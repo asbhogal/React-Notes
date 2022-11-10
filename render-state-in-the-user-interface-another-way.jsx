@@ -22,3 +22,5 @@ class MyComponent extends React.Component {
     );
   }
 };
+
+// NB. return() STATEMENTS ALWAYS NEED TO BR WRITTEN IN JSX SYNTAX.
